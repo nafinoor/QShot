@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=QShot
+Comment=Screenshot and Annotation Tool
+Exec=qshot
+Icon=qshot
+Terminal=false
+Type=Application
+Categories=Graphics;Utility;
+Keywords=screenshot;capture;annotation;screen;
+StartupNotify=true

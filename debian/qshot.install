@@ -1,0 +1,6 @@
+usr/lib/python3*/dist-packages/QShot.py
+usr/lib/python3*/dist-packages/QShot*.py
+usr/lib/python3*/dist-packages/qshot-*.egg-info
+usr/share/applications/com.github.you.qshot.desktop
+usr/share/pixmaps/qshot.png
+usr/share/icons/hicolor/256x256/apps/qshot.png
