@@ -8,6 +8,8 @@ setup(
     long_description_content_type="text/markdown",
     author="Nafi Bin Noor",
     author_email="nafibinnoor@gmail.com",
+    url="https://github.com/nafinoor/QShot/",
+    license="MIT",
     py_modules=["QShot"],
     entry_points={
         "console_scripts": [
